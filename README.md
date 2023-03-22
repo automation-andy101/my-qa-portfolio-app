@@ -73,3 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 npm install @mui/icons-material
 npm install @mui/material @emotion/react @emotion/styled
 npm i react-router-dom react-vertical-timeline-component
+npm i react-vertical-timeline-component
+
