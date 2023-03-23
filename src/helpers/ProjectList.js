@@ -2,6 +2,7 @@ import Playwright from '../assets/playwright.png';
 import PythonSelenium from '../assets/python-selenium.png';
 import Pact from '../assets/pact-2.png';
 import SpecFlow from '../assets/specflow.png';
+import Appium from '../assets/appium.jpg';
 
 
 export const ProjectList = [
@@ -28,5 +29,11 @@ export const ProjectList = [
         image: Pact,
         skills: 'Pact, PactFlow, Javascript',
         github: 'https://github.com/automation-andy101/playwright-ui-bdd-reporting-demo'
+    },
+    {
+        name: 'Mobile Testing with Appium Testing Framework',
+        image: Appium,
+        skills: 'Jave, Appium, TestNG',
+        github: 'https://github.com/divine-moment-of-truth/appium-automated-test-framework'
     },
 ]
