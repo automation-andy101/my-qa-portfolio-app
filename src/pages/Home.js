@@ -26,22 +26,11 @@ const Home = () => {
             <ol className='list'>
                 <li className='item'>
                     <h2>UI Testing Tools</h2>
-                    <span>Cypress</span>
-                    <span>Katalon Studio</span>
-                    <span>Nightwatch</span>
-                    <span>Playwright</span>
-                    <span>Protractor</span>
-                    <span>Katalon </span>
-                    <span>Selenium</span>
-                    <span>Katalon Studio</span>
+                    <span>Cypress, Playwright, Selenium, Protractor, Nightwatch, Katalon Studio</span>
                 </li>
                 <li className='item'>
                     <h2>API Testing Tools</h2>
-                    <span>Karate</span>
-                    <span>RestAssured</span>
-                    <span>Requests</span>
-                    <span>Pact</span>
-                    <span>Postman</span>
+                    <span>RestAssured, Requests, Cypress, Playwright, Karate Pact, Postman</span>
                 </li>
                 <li className='item'>
                     <h2>Perfomance Testing Tools</h2>
@@ -61,23 +50,11 @@ const Home = () => {
                 </li>
                 <li className='item'>
                     <h2>Programming Languages</h2>
-                    <span>C#</span>
-                    <span>Java</span>
-                    <span>Javascript</span>
-                    <span>Python</span>
-                    <span>Ruby</span>
-                    <span>Typescript</span>
-                    <span>SQL</span>
+                    <span>C#, Java, Javascript, Python, Ruby, Typescript, SQL</span>
                 </li>
                 <li className='item'>
                     <h2>Other tools/Skills</h2>
-                    <span>Basic Linux Commands</span>
-                    <span>Cucumber BDD</span>
-                    <span>Jenkins</span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
+                    <span>Basic Linux Commands, Cucumber BDD, Jenkins</span>
                 </li>
             </ol>
         </div>
