@@ -53,7 +53,7 @@ const Home = () => {
                     <span>C#, Java, Javascript, Python, Ruby, Typescript, SQL</span>
                 </li>
                 <li className='item'>
-                    <h2>Other tools/Skills</h2>
+                    <h2>Other Tools/Skills</h2>
                     <span>Basic Linux Commands, Cucumber BDD, Jenkins</span>
                 </li>
             </ol>
