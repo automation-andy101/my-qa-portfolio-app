@@ -18,7 +18,7 @@ const Home = () => {
                 </p>
                 <a href='https://www.linkedin.com/in/andy-short-qa/'><LinkedInIcon /></a>
                 <a href='https://github.com/automation-andy101'><GitHubIcon /></a>
-                <a href=''><EmailIcon /></a>
+                {/* <a href=''><EmailIcon /></a> */}
             </div>
         </div>
         <div className='skills'>

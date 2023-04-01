@@ -16,7 +16,7 @@ const Footer = () => {
       <div className='socialMedia'>
         <a href='https://www.linkedin.com/in/andy-short-qa/'><LinkedInIcon /></a>
         <a href='https://github.com/automation-andy101'><GitHubIcon /></a>
-        <a href='https://github.com/automation-andy101'><EmailIcon /></a>
+        {/* <a href='https://github.com/automation-andy101'><EmailIcon /></a> */}
       </div>
       <p> &copy; 2023 - andy.short101@gmail.com</p>
     </div>
