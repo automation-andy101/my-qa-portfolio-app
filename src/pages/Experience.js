@@ -66,7 +66,7 @@ const Experience = () => {
             icon={<WorkIcon />}
           >
             <h3 className='vertical-timeline-element-title'>Zaizi</h3>
-            <p>Software Tester</p>
+            <p>Senior Software Tester</p>
             <p>
               In-sprint tester on a Agile software development team. 
               The project was greenfield. The team developed a web application for the Home Office's
